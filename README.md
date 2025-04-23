@@ -32,6 +32,8 @@ I enjoy working on projects involving data analytics, automation, and NLP. Alway
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat)
 
 #### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=black&style=flat)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
@@ -44,4 +46,4 @@ I enjoy working on projects involving data analytics, automation, and NLP. Alway
 ---
 
 ### 📫 Let's connect!
-Feel free to reach out on [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/ujjwal-tyagi-8b9a88195/)) or check out some of my projects below!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ujjwal-tyagi-8b9a88195/) or check out my [portfolio](https://ujjwaltyagi2000.github.io/) for projects and more!
